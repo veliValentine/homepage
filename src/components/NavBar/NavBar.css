@@ -1,0 +1,16 @@
+li {
+  list-style-type: none;
+}
+
+.navbar {
+  display: flex;
+  flex-direction: row;
+  align-content: flex-start;
+  padding: 10px;
+}
+
+.navbar-item {
+  padding: 5px;
+  margin: 5px;
+  border-radius: 5px;
+}
